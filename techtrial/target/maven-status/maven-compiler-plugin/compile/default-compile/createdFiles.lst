@@ -1,0 +1,6 @@
+creamy\plugins\techtrial\RightClickHoe.class
+creamy\plugins\techtrial\TechTrialPlugin.class
+creamy\plugins\techtrial\RightClickHoe$1.class
+creamy\plugins\techtrial\CropBreakPrevention.class
+commands\GivePlayerModCmd.class
+commands\ToggleTrampleCmd.class

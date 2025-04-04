@@ -1,0 +1,11 @@
+name: TechTrialPlugin
+version: ${project.version}
+main: creamy.plugins.techtrial
+api-version: 1.21.4
+commands:
+  toggletrampling:
+    description: Used to toggle a player's ability to trample crops.
+  cropProtection:
+    playerUUID: true/false
+  moderators:
+

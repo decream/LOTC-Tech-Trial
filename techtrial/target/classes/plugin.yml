@@ -1,0 +1,14 @@
+name: techtrial
+version: '1.0-SNAPSHOT'
+main: creamy.plugins.techtrial.TechTrialPlugin
+api-version: '1.21'
+depend: [LuckPerms]
+commands:
+  ToggleTrample:
+    description: Toggle your ability to trample crops
+    usage: /toggletrample
+    permission: techtrial.moderator
+  ModGrant:
+    description: Gives moderator flags to a player.
+    usage: /modgrant
+    permission: Op
